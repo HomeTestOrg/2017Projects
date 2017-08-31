@@ -1,32 +1,1 @@
-<<<<<<< Updated upstream
-aaa
-
-bbb
-
-ccc
-
-dd
-
-hi there
-
-eee
-there
-yujtytrew
-=======
-aaa
-bbb
-ccc
-dd
-hi there
-eee
-there
-hgfdaa
->>>>>>> Stashed changes
-eee
-there
-hgfdaa
-eee
-
-there
-hgfdaa
-eee
+This is the line 1
